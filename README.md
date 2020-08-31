@@ -5,6 +5,8 @@
 - 🥅 2020 Goals -then: Expand my understanding of programming languages.
 - ⚡ 2020 Goals - now : Trying to stay alive.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Social media" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -12,7 +14,7 @@
 [<img align="left" alt="Social media | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Social media | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+## <br />
 
 ### Languages and Tools:
 
@@ -27,13 +29,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://ronny8877.github.io/cv/
 [instagram]: https://www.instagram.com/ronni3_x_x
