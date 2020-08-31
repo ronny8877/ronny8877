@@ -1,1 +1,38 @@
-### Hi there, I am Ronnie a Tinkrer
+### Hi there, I'm Ronnie , and I am a Tinkrer 👋
+
+- 🔭 I’m [Ronnie][website]!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2020 Goals -then: Expand my understanding of programming languages.
+- ⚡ 2020 Goals - now : Trying to stay alive.
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+### Connect with me:
+
+[<img align="left" alt="Social media" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="Social media | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Social media | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+(<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />)[html5]
+(<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />)[css]
+(<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />)[sass]
+(<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />)[javascriptt]
+(<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />)[reactjs]
+
+(<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />)[terminal]
+
+<br />
+<br />
+
+---
+
+[website]: https://ronny8877.github.io/cv/
+[instagram]: https://www.instagram.com/ronni3_x_x
+[linkedin]: https://www.linkedin.com/in/ronnie-rawat-76b91417a/
