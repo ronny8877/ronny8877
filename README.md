@@ -1,4 +1,4 @@
-### Hi there, I'm Ronnie , and I am a Tinkrer 👋
+## Hi there, I'm Ronnie , and I am a Tinkrer 👋
 
 - 🔭 I’m [Ronnie][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -33,7 +33,16 @@
 
 ---
 
-## Dual core [all the things][yt]
+#### Personal note:-
+
+- The year is hard and people are having hard time, so lets all be polite to each other who knows who need a pep talk.. be nice to everyone.
+
+<br/>
+<br/>
+
+---
+
+### Dual core [all the things][yt]
 
 <br/>
 
