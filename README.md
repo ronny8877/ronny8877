@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything.
 - 🥅 2020 Goals -then: Expand my understanding of programming languages.
 - 🥺 2020 Goals - now : Staying alive and staying positive.
-
+-TODO update this asap
 ---
 
 ### Connect with me:
