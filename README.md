@@ -50,12 +50,11 @@
 ![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny)
 ---
 ### Dual core [all the things][yt]
-
+#### 10 holy [Commandments]
 
 
 [website]: https://ronny8877.github.io/cv/
 [instagram]: https://www.instagram.com/ronni3_x_x
 [linkedin]: https://www.linkedin.com/in/ronnie-rawat-76b91417a/
 [yt]: https://www.youtube.com/watch?v=FoUWHfh733Y
-[discord]:[null]#1122
-
+[commandments]:https://www.youtube.com/watch?v=Sr8ILq1a_yw
