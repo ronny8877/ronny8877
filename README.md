@@ -34,7 +34,7 @@
 
 #### Stats:-
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnie&?count_private=true)
+![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnie&?count_private=true)
 
 <br/>
 <br/>
