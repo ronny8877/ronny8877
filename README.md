@@ -17,7 +17,7 @@
 
 
 ### Languages and Tools:
-<span class="bg-purple-light">
+<div class="bg-purple-light">
  
 <img align ="left" alt ="Java" width ="26px" src="https://simpleicons.org/icons/java.svg"/>
 <img align ="left" alt ="C" width ="26px" src="https://simpleicons.org/icons/c.svg"/>
@@ -29,7 +29,8 @@
 <img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/react.svg" />
 <img align="left" alt="Node" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
 
-</span>
+</div>
+
 <br />
 <br />
 
