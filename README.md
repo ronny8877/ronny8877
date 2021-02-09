@@ -14,12 +14,20 @@
 [<img align="left" alt="Social media | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ## <br />
-
+<style>
+  .tools {
+    background:white ;
+  }
+  .tools:hover {
+    color:rgb(107,79,187);
+  }
+  
+  </style>
 
 ### Languages and Tools:
 <span>
-  ![bg](white)
-<img align ="left" alt ="Java" width ="26px" src="https://simpleicons.org/icons/java.svg"/>
+ 
+<img align ="left" alt ="Java" width ="26px" src="https://simpleicons.org/icons/java.svg"/>{: .tools}
 <img align ="left" alt ="C" width ="26px" src="https://simpleicons.org/icons/c.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="Firebase" width="26px" src="https://simpleicons.org/icons/firebase.svg" />
@@ -57,3 +65,4 @@
 [linkedin]: https://www.linkedin.com/in/ronnie-rawat-76b91417a/
 [yt]: https://www.youtube.com/watch?v=FoUWHfh733Y
 [discord]:[null]#1122
+
