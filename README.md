@@ -2,8 +2,6 @@
 
 - 🙋🏻‍♂️ I’m [Ronnie][website]!
 - 🌱 I’m currently learning everything.
-- 🥅 2020 Goals -then: Expand my understanding of programming languages.
-- 🥺 2020 Goals - now : Staying alive and staying positive.
 
 ---
 
@@ -34,38 +32,12 @@
 
 ---
 
-#### Personal note:-
+#### Stats:-
 
-The year is hard and people are having hard time, so lets all be polite to each other who knows who need a pep talk.. be nice to everyone.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnie&?count_private=true)
 
 <br/>
 <br/>
-
----
-             /,   ,|   ,|
-             /| /(  ,' / ,//
-          \`( |/ /,'  (,/ |
-           \ \ ` `   `  /--,
-         _,_\ `  ` `  ``  /__
-          '-.____________`  /
-            [  \@,    :] `--,-..-
-            [__________]__,'-._/
-             )'o\ ' o) \/ )
-             \  /   __  ./
-              \=`   ==,\..
-               \ -. `,' (333
-               3`--''    \33.
-             ,333_) /mm33333:.
-            |:#:mmmmmm333333::
-            |:#:333333333::##'
-            ':#:ctr3333''#####\
-             |:#:#\###########\
-             |:#:##\###########\
-             |:#:###\########|#\
-             /:#:|:::\|::::::|:(
-             ):#:|::::\::::::|:/
-            /:#;/:::::<::::::|(
- 
 
 ### Dual core [all the things][yt]
 
