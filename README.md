@@ -1,21 +1,24 @@
 ## Hi there, I'm Ronnie , and I am a Tinkrer 👋
 
 - 🙋🏻‍♂️ I’m [Ronnie][website]! I am a College Student, and a self taught fullstack developer in making.
-- Programming is my Hobby, Passio and Carrer and i Love it.
+- 👨‍🎓 Programming is my Hobby, Passion and Carrer and i Love it.
 - 🌱 I’m currently learning everything.
 
 ---
 
 ### Connect with me:
 
+  
 [<img align="left" alt="Social media" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Social media | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Social media | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ## <br />
 
-### Languages and Tools:
 
+### Languages and Tools:
+<span>
+  ![bg](white)
 <img align ="left" alt ="Java" width ="26px" src="https://simpleicons.org/icons/java.svg"/>
 <img align ="left" alt ="C" width ="26px" src="https://simpleicons.org/icons/c.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
@@ -26,6 +29,7 @@
 <img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/react.svg" />
 <img align="left" alt="Node" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
 
+</span>
 <br />
 <br />
 
