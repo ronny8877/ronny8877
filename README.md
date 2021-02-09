@@ -44,7 +44,7 @@
 ---
 
 <!-- uncommen this when the profile gets synced -->
-<!-- ![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny8877) -->
+![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny)
 ### Dual core [all the things][yt]
 
 
