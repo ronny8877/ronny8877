@@ -20,6 +20,7 @@
 <img align ="left" alt ="C" width ="26px" src="https://simpleicons.org/icons/c.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
 <img align="left" alt="Firebase" width="26px" src="https://simpleicons.org/icons/firebase.svg" />
+<img align="left" alt="Css" width="26px" src="https://simpleicons.org/icons/css3.svg" />
 <img align="left" alt="Mongo" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />
 <img align="left" alt="Express" width="26px" src="https://simpleicons.org/icons/express.svg" />
 <img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/react.svg" />
