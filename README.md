@@ -26,6 +26,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
@@ -34,15 +35,19 @@
 
 #### Stats:-
 
-![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&count_private=true&show_icons=true&theme=Gradient)
+![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
-<br/>
-<br/>
+---
 
+[![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&layout=compact&langs_count=8)
+
+---
+
+<!-- uncommen this when the profile gets synced
+[![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny8877) -->
 ### Dual core [all the things][yt]
 
-<br/>
+
 
 [website]: https://ronny8877.github.io/cv/
 [instagram]: https://www.instagram.com/ronni3_x_x
