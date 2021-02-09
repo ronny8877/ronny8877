@@ -34,8 +34,9 @@
 
 #### Stats:-
 
-![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnie&?count_private=true)
+![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&count_private=true&show_icons=true&theme=Gradient)
 
+[![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
 <br/>
 <br/>
 
