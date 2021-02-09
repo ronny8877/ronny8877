@@ -39,12 +39,12 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&layout=compact&langs_count=8)
 
 ---
 
-<!-- uncommen this when the profile gets synced
-[![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny8877) -->
+<!-- uncommen this when the profile gets synced -->
+[![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny8877)
 ### Dual core [all the things][yt]
 
 
