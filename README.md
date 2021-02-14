@@ -38,16 +38,16 @@
 
 #### Stats:-
 
-![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 
 ---
 
-![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&layout=compact&langs_count=10&hide=contribs,prs,issues)
 
 ---
 
 <!-- uncommen this when the profile gets synced -->
-![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny)
+![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny&layout=compact)
 ---
 ### Dual core [all the things][yt]
 ## 10 holy [Commandments]
