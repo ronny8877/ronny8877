@@ -42,15 +42,15 @@
 
 ---
 
-![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&layout=compact&langs_count=10&hide=contribs,prs,issues)
+![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&layout=compact&langs_count=10&hide=contribs,issues)
 
 ---
 
 <!-- uncommen this when the profile gets synced -->
 ![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny&layout=compact)
 ---
-### Dual core [all the things][yt]
-## 10 holy [Commandments]
+### Do [Good][yt] and Always follow the 10 holy [Commandments][commandements]
+
 
 
 [website]: https://ronny8877.github.io/cv/
