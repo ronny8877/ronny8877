@@ -49,7 +49,7 @@
 <!-- uncommen this when the profile gets synced -->
 ![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny&layout=compact)
 ---
-### Do [Good][yt] and Always follow the 10 holy [Commandments][commandements]
+### Do [Good][yt] and Always follow the 10 holy [Commandments]
 
 
 
