@@ -1,7 +1,7 @@
 ## Hi there, I'm Ronnie , and I am a Tinkrer 👋
 
 - 🙋🏻‍♂️ I’m [Ronnie][website]! I am a College Student, and a self taught fullstack developer in making.
-- 👨‍🎓 Programming is my Hobby, Passion and Carrer and i Love it.
+- 👨‍🎓 Programming is my Hobby, Passion and Carrier and i Love it.
 - 🌱 I’m currently learning everything.
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-#### Stats:-
+## Stats:-
 
 ![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide=contribs,issues)
 
@@ -46,8 +46,8 @@
 
 ---
 
-<!-- uncommen this when the profile gets synced -->
-![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny&layout=compact)
+
+![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny)
 ---
 ### Do [Good][yt] and Always follow the 10 holy [Commandments]
 
