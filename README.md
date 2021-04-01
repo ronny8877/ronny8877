@@ -54,7 +54,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronny8877&theme=dark)](https://git.io/streak-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ronny8877&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=ronny8877)](https://github.com/ryo-ma/github-profile-trophy)]
 
 ---
 ### Do [Good][yt] and Always follow the 10 holy [Commandments]
