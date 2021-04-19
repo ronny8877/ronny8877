@@ -1,8 +1,10 @@
 ## Hi there, I'm Ronnie , and I am a Tinkrer 👋
 
-- 🙋🏻‍♂️ I’m [Ronnie][website]! I am a College Student, and a self taught fullstack developer in making.
-- 👨‍🎓 Programming is my Hobby, Passion and Carrier and i Love it.
+- 🙋🏻‍♂️ I’m [Ronnie][website]! I am a College Student, and a self taught Programmer in making.
+- 👨‍🎓 Programming is my Hobby, Passion and Career ,i Love it.
 - 🌱 I’m currently learning everything.
+- Cheesy stuff aside I just love to make things and the weirder they are the more fun i have. 
+- Programming is like to  magic me i want to be the Harry Houdini. 
 
 ---
 
