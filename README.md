@@ -29,7 +29,6 @@
 <img align="left" alt="Mongo" width="26px" src="https://simpleicons.org/icons/mongodb.svg" />
 <img align="left" alt="Express" width="26px" src="https://simpleicons.org/icons/express.svg" />
 <img align="left" alt="React" width="26px" src="https://simpleicons.org/icons/react.svg" />
-<img align="left" alt="Node" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
 
 </div>
 
