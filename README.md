@@ -49,7 +49,7 @@
 ---
 
 
-![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny)
+![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=@ronny)
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronny8877&theme=dark)](https://git.io/streak-stats)
