@@ -1,7 +1,7 @@
 # Ronnie Here!
 
-- 🙋🏻‍♂️ I’m [Ronnie][website]! I am a College Student, and a self taught Programmer in making.
-- 👨‍🎓 I write fancy text files for a living.
+- 🙋🏻‍♂️ I’m [Ronnie][website]! I am a self taught Full stack developer.
+- 👨‍🎓 I  Like to write fancy text files for a living.
 
 
 
