@@ -51,5 +51,5 @@
 [yt]: https://www.youtube.com/watch?v=FoUWHfh733Y
 [commandments]:https://www.youtube.com/watch?v=Sr8ILq1a_yw
 
-[![ Cooodinnnngg](https://tenor.com/en-IN/view/coding-typing-pc-laptop-power-gif-21599707)](https://stackoverflow.com/users/https://stackoverflow.com/users/14463282/ronnie-rawat) 
+[![ Cooodinnnngg](https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif)](https://stackoverflow.com/users/https://stackoverflow.com/users/14463282/ronnie-rawat) 
 
