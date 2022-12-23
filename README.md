@@ -50,6 +50,6 @@
 [yt]: https://www.youtube.com/watch?v=FoUWHfh733Y
 [commandments]:https://www.youtube.com/watch?v=Sr8ILq1a_yw
 
-![MarineGEO circle logo](https://tenor.com/en-IN/view/coding-typing-pc-laptop-power-gif-21599707 "Coooodinnng")
+![Cooodinnnngg](https://tenor.com/en-IN/view/coding-typing-pc-laptop-power-gif-21599707)
 
 
