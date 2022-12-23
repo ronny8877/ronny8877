@@ -22,7 +22,7 @@
 ## Stats:-
 
 
-![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=contribs,issues)
+![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
