@@ -16,11 +16,13 @@
 ## UwU
 
 ---
+[![wakatime](https://wakatime.com/badge/user/23420600-bda5-4da9-b0cf-a98d615ede22.svg)](https://wakatime.com/@23420600-bda5-4da9-b0cf-a98d615ede22)
 ![](https://hit.yhype.me/github/profile?user_id=59197964)
 ![](https://komarev.com/ghpvc/?username=ronny8877)
 ## Stats:-
 
-![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&theme=dark&hide_border=true&include_all_commits=true&count_private=truelayout=compact&hide=contribs,issues)
+
+![Ronnie's GitHub stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api?username=ronny8877&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=contribs,issues)
 
 ---
 
@@ -28,7 +30,7 @@
 
 ---
 
-![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=@ronny_x_x)
+![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=ronny_x_x)
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronny8877&theme=dark&hide_border=true)](https://git.io/streak-stats)
