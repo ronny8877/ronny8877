@@ -31,7 +31,7 @@
 
 ---
 
-![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=lost_lord&theme=dark&hide_border=true)
+![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=@lost_lord&theme=dark&hide_border=true)
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronny8877&theme=dark&hide_border=true)](https://git.io/streak-stats)
