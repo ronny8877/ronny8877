@@ -12,6 +12,8 @@
 <br />
 <br />
 
+![Wakatime](https://wakatime.com/insights/animated/days.gif)
+
 ---
 
 ## UwU
@@ -29,9 +31,6 @@
 
 ![Top Langs](https://github-readme-stats-git-master.ronny8877.vercel.app/api/top-langs/?username=ronny8877&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
----
-
-![Ronnie's wakatime stats](https://github-readme-stats-git-master.ronny8877.vercel.app/api/wakatime?username=@lost_lord&theme=dark&hide_border=true)
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronny8877&theme=dark&hide_border=true)](https://git.io/streak-stats)
